@@ -19,19 +19,19 @@ The data is taken from different locations and includes data from:
 ### 1. Looking at the most popular regions based on the number of movies in the dataset.
 * Information on the most popular regions is important as it will enable microsoft to know what regions to focus on in their movie production business.
 * The movie_akas table in the IMDB SQL database was used to find the top 5 regions with the highest number of movies 
-![popular_regions](Most_popular_regions.PNG)
+![popular_regions](https://github.com/Samuel-Kiio/Phase_1_Project_Microsoft_Movie_Studio/blob/main/Most_popular_regions.png)
 ### 2. Looking at the relationship between movie run-time in minutes and movie ratings
 * This relationship seeks to find out whether viewers rate movies with either higher or lower movie run time highly.
 * It seeks to find any correlation between the highly ranked movies and their run time.
 * This information can be very useful to microsoft as it will help them know whether viewers prefer long movies or short movies.
 * The correlation was investigated by plotting a scatter plot of run time in minutes vs average rating
-![run_time](Relationship_Between_runtime_in_minutes_and_rating-given.PNG)
+![run_time](https://github.com/Samuel-Kiio/Phase_1_Project_Microsoft_Movie_Studio/blob/main/Relationship_Between_runtime_in_minutes_and_rating-given.png)
 ### 3. Investigating whether the worldwide market is more profitable compared to the domestic market
 * The Numbers Database was used for this analysis.
 * Domestic profits and worldwide profits were calculated and two columns added to show the profits.
 * A third column was added that compares the two values and determines which is greater, the domestic profits or the worldwide profits.
 This investigation can be used to determine the focus on marketing and sales between the domestic or the global market.
-![profits](pie_chart.PNG)
+![profits](https://github.com/Samuel-Kiio/Phase_1_Project_Microsoft_Movie_Studio/blob/main/pie_chart.png)
 ## Conclusion
 * The conclusion is that the United States is the most popular region with 66.8% of all the movies.
 * The data showed correlation between movie run - time and the popularity of a movie.
